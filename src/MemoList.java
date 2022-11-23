@@ -15,8 +15,10 @@ public class MemoList {
     //추가1
     //추가2
 */
+    //추추각
 
     int x;
+    int y;
     Memo memo;
 
 
@@ -34,11 +36,6 @@ public class MemoList {
         memo.date = LocalDateTime.now();
 
     }
-
-
-
-
-
 
 
 
